@@ -12,7 +12,6 @@ const App = (props) => {
   const [isValueAutoClick, setIsValueAutoClick] = useState(false);
   const [priceValueClick, setPriceValueClick] = useState(10);
   const [priceAutoClick, setPriceAutoClick] = useState(50);
-  //const [priceLoloClick, setPriceLoloClick] = useState(100);
 
   /*-------------------------------------------( function par Coin/sec )---------------------------------------------------*/
   const coinSec = useCallback(() => {
@@ -65,7 +64,6 @@ const App = (props) => {
         setPriceAutoClick={(newPrice) => {
           setPriceAutoClick(newPrice);
         }}
-        //setPriceLoloClick={(newPrice)=>{setPriceLoloClick(newPrice)}}
       />{" "}
     </div>
   );

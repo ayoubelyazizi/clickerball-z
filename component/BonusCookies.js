@@ -97,7 +97,6 @@ export const BonusCookies = (props) => {
     <>
       {btnValueClick}
       {btnAutoClick}
-      {/* {score>=100 && btn3} */}
     </>
   );
 };
