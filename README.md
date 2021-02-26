@@ -26,3 +26,5 @@ Everything works on my site but I didn't manage to make a github page because I 
 ## Preview : 
 
 ![](./img/dbzclicker.jpg "DBZ")
+
+**P.S. :** There is only one commit because I restarted the project several times on different repo's, so this version I first finished it on my pc before creating a new repo.
