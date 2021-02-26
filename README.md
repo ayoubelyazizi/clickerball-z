@@ -24,6 +24,6 @@ Everything works on my site but I didn't manage to make a github page because I 
 * CSS 3
 
 ## Preview : 
-![](/img/dbzclicker.jpg)
+![preview](/img/dbzclicker.JPG)
 
 **P.S. :** There is only one commit because I restarted the project several times on different repo's, so this version I first finished it on my pc before creating a new repo.
