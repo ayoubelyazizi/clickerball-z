@@ -1,4 +1,4 @@
-# Solo Project On LARAVEL 8
+# Solo Project On REACT
 
 This project was made by [**Ayoube El Yazizi**](https://github.com/ayoubelyazizi).
 
